@@ -1,583 +1,133 @@
-# 🚀 AI Engineer Roadmap 2026
-
-> Complete AI Engineer Learning Path with Timeline, Courses, Certifications, Projects & Career Roadmap
-
-Based on the AI Engineer roadmap from roadmap.sh and modern industry requirements.
-
----
-
-# 📚 Table of Contents
-
-- Introduction
-- Skills Required
-- 12-Month Timeline
-- Phase 0 — Developer Foundations
-- Phase 1 — Python Programming
-- Phase 2 — Mathematics for AI
-- Phase 3 — Machine Learning
-- Phase 4 — Deep Learning
-- Phase 5 — Generative AI & LLM Engineering
-- Phase 6 — AI App Development
-- Phase 7 — Databases & Vector Databases
-- Phase 8 — AI Engineering Best Practices
-- Phase 9 — Portfolio Projects
-- Certifications
-- Recommended Tech Stack
-- Interview Preparation
-- Freelancing & Career Tips
-- Useful Resources
-
----
-
-# 🤖 Introduction
-
-AI Engineering is one of the fastest-growing careers in technology.
-
-Modern AI Engineers focus on:
-
-- Building AI-powered applications
-- Integrating LLM APIs
-- Creating AI workflows
-- Developing AI SaaS products
-- Building RAG systems
-- Deploying AI applications
-
-Unlike AI Researchers, AI Engineers mostly work with existing models like:
-
-- OpenAI GPT
-- Claude
-- Gemini
-- Llama
-- Mistral
-
----
-
-# 🛠 Skills Required
-
-## Core Skills
-
-- Python Programming
-- APIs & Backend Development
-- Machine Learning Basics
-- Deep Learning Fundamentals
-- LLM Engineering
-- Prompt Engineering
-- Vector Databases
-- RAG Systems
-- AI Agents
-- Cloud Deployment
-- Docker & DevOps
-
----
-
-# 🗓 12-Month AI Engineer Timeline
-
-| Month | Focus |
-|---|---|
-| 1 | Python + Git + Linux |
-| 2 | Mathematics + Statistics |
-| 3 | Machine Learning |
-| 4 | Deep Learning |
-| 5 | LLMs + Prompt Engineering |
-| 6 | LangChain + RAG |
-| 7 | Vector Databases |
-| 8 | AI Agents |
-| 9 | FastAPI + Backend |
-| 10 | Docker + Deployment |
-| 11 | Portfolio Projects |
-| 12 | Interview Prep + Freelancing |
-
----
-
-# 📦 Phase 0 — Developer Foundations (2 Weeks)
-
-## Topics
-
-- Internet Basics
-- Command Line
-- Git & GitHub
-- VS Code
-- APIs
-- JSON
-- Linux Basics
-
----
-
-## Free Courses
-
-### Git & GitHub
-- https://skills.github.com/
-- https://www.freecodecamp.org/news/git-and-github-for-beginners/
-
-### Linux
-- https://linuxjourney.com/
-
----
-
-## Projects
-
-- Create GitHub profile
-- Push first repository
-- Build API tester
-
----
-
-# 🐍 Phase 1 — Python Programming (1 Month)
-
-## Topics
-
-### Python Basics
-- Variables
-- Data Types
-- Loops
-- Functions
-- OOP
-- File Handling
-
-### Intermediate Python
-- Virtual Environments
-- Pip
-- APIs
-- Error Handling
-- Async Basics
-
----
-
-## Important Libraries
-
-- NumPy
-- Pandas
-- Matplotlib
-- Requests
-
----
-
-## Free Courses
-
-### Beginner
-- https://www.py4e.com/
-- https://www.freecodecamp.org/learn/scientific-computing-with-python/
-
-### Intermediate
-- https://www.kaggle.com/learn/python
-- https://automatetheboringstuff.com/
-
----
-
-## Certificates
-
-- freeCodeCamp Python Certificate
-- Kaggle Python Certificate
-
----
-
-## Projects
-
-- PDF Text Extractor
-- Web Scraper
-- AI Resume Analyzer
-
----
-
-# 📐 Phase 2 — Mathematics for AI (3 Weeks)
-
-## Topics
-
-### Statistics
-- Mean
-- Median
-- Variance
-- Probability
-
-### Linear Algebra
-- Vectors
-- Matrices
-- Dot Products
-
-### Calculus
-- Derivatives
-- Gradients
-
----
-
-## Free Courses
-
-### Statistics
-- https://www.khanacademy.org/math/statistics-probability
-
-### Linear Algebra
-- https://www.3blue1brown.com/topics/linear-algebra
-
-### AI Math
-- https://developers.google.com/machine-learning/crash-course
-
----
-
-# 🧠 Phase 3 — Machine Learning (1.5 Months)
-
-## Topics
-
-### Supervised Learning
-- Regression
-- Classification
-
-### Unsupervised Learning
-- Clustering
-- Dimensionality Reduction
-
-### Algorithms
-- Linear Regression
-- Decision Trees
-- Random Forest
-- XGBoost
-
-### Model Evaluation
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-
----
-
-## Free Courses
-
-- https://www.coursera.org/learn/machine-learning
-- https://developers.google.com/machine-learning/crash-course
-- https://www.kaggle.com/learn/intro-to-machine-learning
-
----
-
-## Projects
-
-- House Price Predictor
-- Spam Classifier
-- Customer Churn Predictor
-
----
-
-# 🔥 Phase 4 — Deep Learning (1 Month)
-
-## Topics
-
-- Neural Networks
-- Activation Functions
-- Backpropagation
-- CNN
-- RNN
-- Transformers Basics
-
----
-
-## Frameworks
-
-- TensorFlow
-- PyTorch
-
----
-
-## Free Courses
-
-- https://www.deeplearning.ai/
-- https://course.fast.ai/
-- https://pytorch.org/tutorials/
-
----
-
-## Projects
-
-- Image Classifier
-- Face Detection System
-- Sentiment Analysis App
-
----
-
-# 🤖 Phase 5 — Generative AI & LLM Engineering (2 Months)
-
-## Topics
-
-### LLM Basics
-- Tokens
-- Embeddings
-- Attention Mechanism
-- Context Windows
-
-### Prompt Engineering
-- Zero-shot Prompting
-- Few-shot Prompting
-- Chain of Thought
-
-### APIs
-- OpenAI API
-- Claude API
-- Gemini API
-- Hugging Face
-
-### RAG Systems
-- Embeddings
-- Vector Search
-- Semantic Search
-
-### AI Agents
-- Tool Calling
-- Multi-Agent Systems
-- Workflows
-
-### Fine-Tuning
-- LoRA
-- PEFT
-
----
-
-## Tools to Learn
-
-- LangChain
-- LlamaIndex
-- ChromaDB
-- Pinecone
-- Ollama
-- Hugging Face
-
----
-
-## Free Courses
-
-- https://academy.openai.com/
-- https://anthropic.skilljar.com/
-- https://huggingface.co/learn
-- https://www.deeplearning.ai/short-courses/
-- https://grow.google/ai/
-
----
-
-## Projects
-
-- ChatGPT Clone
-- AI Coding Assistant
-- AI PDF Chatbot
-- AI Customer Support Bot
-
----
-
-# 🌐 Phase 6 — AI App Development & Deployment (1 Month)
-
-## Topics
-
-### Backend
-- FastAPI
-- Flask
-- REST APIs
-
-### Frontend
-- Streamlit
-- Gradio
-- Next.js Basics
-
-### Deployment
-- Docker
-- Nginx
-- VPS
-- AWS Basics
-- Railway
-- Render
-
----
-
-## Free Courses
-
-- https://fastapi.tiangolo.com/
-- https://docs.docker.com/get-started/
-- https://docs.streamlit.io/
-
----
-
-## Projects
-
-- AI SaaS App
-- AI API Service
-- AI Browser Automation App
-
----
-
-# 🗄 Phase 7 — Databases & Vector Databases (2 Weeks)
-
-## Topics
-
-### Traditional Databases
-- PostgreSQL
-- MongoDB
-- Redis
-
-### Vector Databases
-- Pinecone
-- Weaviate
-- ChromaDB
-- FAISS
-
----
-
-## Free Courses
-
-- https://learn.mongodb.com/
-- https://www.postgresqltutorial.com/
-
----
-
-# 🔒 Phase 8 — AI Engineering Best Practices (2 Weeks)
-
-## Topics
-
-- Responsible AI
-- AI Security
-- Guardrails
-- Hallucination Handling
-- Cost Optimization
-- Rate Limiting
-- AI Ethics
-
----
-
-## Free Courses
-
-- https://developers.google.com/machine-learning/guides/rules-of-ml
-- https://learn.microsoft.com/en-us/training/paths/responsible-ai-business-principles/
-
----
-
-# 💼 Phase 9 — Portfolio Projects (1–2 Months)
-
-## Beginner Projects
-
-- AI Notes Generator
-- AI Email Assistant
-- AI Image Caption Generator
-
----
-
-## Intermediate Projects
-
-- RAG Chatbot
-- AI Resume Screener
-- Voice AI Assistant
-
----
-
-## Advanced Projects
-
-- AI SaaS Platform
-- Multi-Agent AI Workflow
-- AI Automation System
-- AI Customer Support Platform
-
----
-
-# 🏆 Best Certifications
-
-| Certification | Importance |
-|---|---|
-| Hugging Face | High |
-| DeepLearning.AI | Excellent |
-| Google AI Certificates | High |
-| Microsoft AI Skills | High |
-| Kaggle Certificates | Good |
-| OpenAI Academy | Emerging |
-| Anthropic Academy | Emerging |
-
----
-
-# ⚙ Recommended Tech Stack
-
-| Category | Tools |
-|---|---|
-| Language | Python |
-| Backend | FastAPI |
-| Frontend | Next.js |
-| LLM Frameworks | LangChain |
-| Vector DB | Pinecone |
-| Database | PostgreSQL |
-| Deployment | Docker |
-| Cloud | AWS / GCP |
-
----
-
-# 📖 Daily Study Plan
-
-## Part-Time Learning (3 Hours Daily)
-
-| Activity | Duration |
-|---|---|
-| Course Learning | 1 Hour |
-| Coding Practice | 1 Hour |
-| Documentation Reading | 30 Minutes |
-| Project Building | 30 Minutes |
-
----
-
-# 🎯 Interview Preparation
-
-## Important Topics
-
-- AI System Design
-- RAG Architecture
-- Prompt Engineering
-- LLM Optimization
-- Vector Databases
-- API Integration
-- AI Deployment
-
----
-
-# 💰 Freelancing Opportunities
-
-After 6–8 months, you can start freelancing in:
-
-- AI Chatbot Development
-- AI Automation
-- AI SaaS Applications
-- AI Customer Support Systems
-- AI Workflow Automation
-- AI API Integrations
-
----
-
-# 🌟 Final Advice
-
-The fastest path to becoming an AI Engineer:
-
-1. Learn Python
-2. Build Projects
-3. Learn LLM APIs
-4. Build RAG Applications
-5. Deploy AI Apps
-6. Create Portfolio
-7. Start Freelancing
-
----
-
-# 🔗 Useful Resources
-
-## Learning Platforms
-- https://academy.openai.com/
-- https://huggingface.co/learn
-- https://www.deeplearning.ai/
-- https://grow.google/ai/
-- https://www.freecodecamp.org/
-
-## Documentation
-- https://platform.openai.com/docs
-- https://python.langchain.com/
-- https://docs.llamaindex.ai/
-- https://fastapi.tiangolo.com/
-
----
-
-# ⭐ Contribute
-
-If this roadmap helped you, consider giving this repository a ⭐ on GitHub.
-
----
-
-# 📄 License
-
-MIT License
-
----
+🚀 AI Engineer Roadmap 2026
+Complete AI Engineer Learning Path with Timeline, Courses, Certifications, Projects & Career Roadmap
+
+🤖 Introduction
+AI Engineering is one of the fastest-growing careers in technology. Modern AI Engineers focus on building AI-powered applications, integrating LLM APIs, creating AI workflows, and deploying AI SaaS products.
+🛠 Skills Required
+•	Python Programming
+•	Machine Learning Basics
+•	Deep Learning Fundamentals
+•	LLM Engineering
+•	Prompt Engineering
+•	Vector Databases
+•	RAG Systems
+•	AI Agents
+•	Cloud Deployment
+•	Docker & DevOps
+🗓 12-Month AI Engineer Timeline
+Month	Focus
+1	Python + Git + Linux
+2	Mathematics + Statistics
+3	Machine Learning
+4	Deep Learning
+5	LLMs + Prompt Engineering
+6	LangChain + RAG
+7	Vector Databases
+8	AI Agents
+9	FastAPI + Backend
+10	Docker + Deployment
+11	Portfolio Projects
+12	Interview Prep + Freelancing
+📦 Phase 0 — Developer Foundations
+Topics Covered:
+•	Internet Basics
+•	Git & GitHub
+•	Linux Basics
+•	APIs & JSON
+Free Learning Resources:
+•	https://skills.github.com/
+•	https://linuxjourney.com/
+🐍 Phase 1 — Python Programming
+Topics Covered:
+•	Variables
+•	Loops
+•	Functions
+•	OOP
+•	NumPy
+•	Pandas
+Free Learning Resources:
+•	https://www.py4e.com/
+•	https://www.freecodecamp.org/learn/scientific-computing-with-python/
+📐 Phase 2 — Mathematics for AI
+Topics Covered:
+•	Statistics
+•	Linear Algebra
+•	Probability
+•	Calculus Basics
+Free Learning Resources:
+•	https://www.khanacademy.org/math/statistics-probability
+•	https://www.3blue1brown.com/topics/linear-algebra
+🧠 Phase 3 — Machine Learning
+Topics Covered:
+•	Regression
+•	Classification
+•	Decision Trees
+•	Random Forest
+Free Learning Resources:
+•	https://www.coursera.org/learn/machine-learning
+•	https://www.kaggle.com/learn/intro-to-machine-learning
+🔥 Phase 4 — Deep Learning
+Topics Covered:
+•	Neural Networks
+•	CNN
+•	RNN
+•	Transformers
+Free Learning Resources:
+•	https://course.fast.ai/
+•	https://pytorch.org/tutorials/
+🤖 Phase 5 — Generative AI & LLM Engineering
+Topics Covered:
+•	Prompt Engineering
+•	RAG
+•	Embeddings
+•	AI Agents
+Free Learning Resources:
+•	https://academy.openai.com/
+•	https://huggingface.co/learn
+🌐 Phase 6 — AI App Development
+Topics Covered:
+•	FastAPI
+•	Docker
+•	Streamlit
+•	Deployment
+Free Learning Resources:
+•	https://fastapi.tiangolo.com/
+•	https://docs.docker.com/get-started/
+💼 Portfolio Projects
+•	ChatGPT Clone
+•	AI Resume Screener
+•	RAG Chatbot
+•	AI SaaS Platform
+•	AI Automation System
+•	Voice AI Assistant
+🏆 Best Certifications
+Certification	Importance
+Hugging Face	High
+DeepLearning.AI	Excellent
+Google AI Certificates	High
+Microsoft AI Skills	High
+Kaggle Certificates	Good
+⚙ Recommended Tech Stack
+Category	Tools
+Language	Python
+Backend	FastAPI
+Frontend	Next.js
+LLM Frameworks	LangChain
+Vector DB	Pinecone
+Database	PostgreSQL
+Deployment	Docker
+🎯 Interview Preparation
+•	AI System Design
+•	RAG Architecture
+•	Prompt Engineering
+•	LLM Optimization
+•	Vector Databases
+•	API Integration
+•	AI Deployment
+🌟 Final Advice
+The fastest path to becoming an AI Engineer is to learn Python, build projects consistently, work with LLM APIs, deploy AI applications publicly, and create a strong GitHub portfolio.
+🔗 Useful Resources
+•	https://academy.openai.com/
+•	https://huggingface.co/learn
+•	https://www.deeplearning.ai/
+•	https://www.freecodecamp.org/
